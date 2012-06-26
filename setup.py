@@ -2,7 +2,7 @@
 
 # from distutils.core import setup
 from setuptools import setup, find_packages
-import metadata
+import tinymce.metadata
 
 app_name = metadata.name
 version = metadata.version
